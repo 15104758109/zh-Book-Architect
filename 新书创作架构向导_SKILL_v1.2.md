@@ -1,6 +1,6 @@
 \---
 
-name: new-book-core-architect
+name: zh Book Architect
 description: 面向普通小说作者的新书架构交互 Skill。把作者的模糊创意通过“已知设定代入式单选追问、阶段确认、关联补全与健康度闸门”收束为可直接用于新书创建的完整核心设定文档。适用于聊天窗口与 Codex；只使用简体中文业务语言，不依赖数据库、JSON 或软件接口。
 version: "1.2"
 language: zh-CN
