@@ -1,4 +1,4 @@
-# 纵横开书架构师 zh Book Architect)
+# 纵横开书架构师 zh Book Architect
 
 <p align="center">
   <a href="./README.md">简体中文</a> | <a href="./README_EN.md">English</a>
